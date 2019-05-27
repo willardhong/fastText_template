@@ -1,4 +1,7 @@
 #!/bin/bash
+### this is a template for classify text using fastText
+### you can run in both command line by copy and paste or as ./*.sh
+### willard hong 5/26/2019
 
 #cat data/yelp/yelp_review.csv | python parse_yelp_dataset.py > data/yelp/yelp_review.v1.csv
 
